@@ -1,0 +1,20 @@
+body{background-color: cornsilk;}
+
+.Underline{text-decoration: underline;
+text-align: center;}
+
+.Color{color: white;
+background-color: brown;
+font-size: 200%;}
+
+.Center{text-align: center;}
+
+.linespace{
+    line-height: 0%;
+    text-decoration: underline;
+    text-align: center;
+}
+.Prat{text-decoration: underline;
+    line-height: 0%;
+
+}
